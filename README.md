@@ -137,6 +137,6 @@ Seal Detector Pro is **Proprietary Software**. All intellectual property rights 
 
 
 
-**CHIRANJEEVI KARRI*** _Project Maintainer & Lead Developer_
+**MANIKANTA KALYANAM*** _Project Maintainer & Lead Developer_
 
 
